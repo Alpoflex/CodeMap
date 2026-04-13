@@ -33,7 +33,7 @@ AI-powered insights by Claude — understand architecture at a glance.**
 ## 🖼️ Preview & Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x500/0a0a1a/6366f1?text=🚀+Insert+Your+Demo+GIF+Here" alt="CodeMap Demo GIF" width="100%"/>
+  <img src="client/public/screenshot.png" alt="CodeMap App Interface" width="100%"/>
 </p>
 
 <details>
@@ -41,10 +41,7 @@ AI-powered insights by Claude — understand architecture at a glance.**
 <br>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a1a/8b5cf6?text=Interactive+2D%2F3D+Graph+Visualization" alt="Graph Screenshot" width="80%"/>
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a1a/06b6d4?text=Claude+AI+File+Analysis+Panel" alt="AI Sidebar Screenshot" width="80%"/>
+  <img src="client/public/screenshot.png" alt="Graph Screenshot" width="80%"/>
 </p>
 </details>
 
