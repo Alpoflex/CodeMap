@@ -33,7 +33,7 @@ AI-powered insights by Claude — understand architecture at a glance.**
 ## 🖼️ Preview & Screenshots
 
 <p align="center">
-  <img src="client/public/screenshot.png" alt="CodeMap App Interface" width="100%"/>
+  <img src="client/public/codemap-hero.png" alt="CodeMap App Interface" width="100%"/>
 </p>
 
 <details>
@@ -41,7 +41,7 @@ AI-powered insights by Claude — understand architecture at a glance.**
 <br>
 
 <p align="center">
-  <img src="client/public/screenshot.png" alt="Graph Screenshot" width="80%"/>
+  <img src="client/public/codemap-hero.png" alt="Graph Screenshot" width="80%"/>
 </p>
 </details>
 
